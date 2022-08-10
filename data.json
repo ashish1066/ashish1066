@@ -1,1 +1,55 @@
-{"checkin_offer":{"button_text":"MeMe","checked_in":false,"currency_icon_url":"https://ghc-stage.theflyy.com/assets/currency_icons/21/cash.png","currency_label":"Cash","deeplink":"https://www.kotaksecurities.com/pdf/flyy_tnc.pdf","description":"\u003cp\u003eDaily win rewards....\u003c/p\u003e","details_screen":0,"milestones":[{"id":2738,"max_price":12,"min_price":10,"offer_id":0,"tenant_id":0,"value":"1"},{"id":2739,"max_price":12,"min_price":10,"offer_id":0,"tenant_id":0,"value":"3"},{"id":2740,"max_price":12,"min_price":10,"offer_id":0,"tenant_id":0,"value":"5"}],"id":9334,"image_url":"https://ghc-stage.theflyy.com/assets/flyy_offers/9334/file.png","is_live":true,"tnc_accepted":false,"max_reward":0,"min_reward":0,"invite_offer_details_screen":0,"offer_terms":"\u003cp\u003eblablabla\u003c/p\u003e","offer_type_code":"checkin","offer_type_title":"Daily Check In","reward_on_every":"Days","show_banner":false,"show_referral_button":false,"streak":-1,"title":"\u003cp\u003eCheck In daily and win rewards\u003c/p\u003e","show_tnc":false,"total_streak":5},"success":true}
+{
+  "checkin_offer": {
+    "button_text": "MeMe",
+    "checked_in": false,
+    "currency_icon_url": "https://ghc-stage.theflyy.com/assets/currency_icons/21/cash.png",
+    "currency_label": "Cash",
+    "deeplink": "https://www.kotaksecurities.com/pdf/flyy_tnc.pdf",
+    "description": "\u003cp\u003eDaily win rewards....\u003c/p\u003e",
+    "details_screen": 0,
+    "milestones": [
+      {
+        "id": 2738,
+        "max_price": 12,
+        "min_price": 10,
+        "offer_id": 0,
+        "tenant_id": 0,
+        "value": "1"
+      },
+      {
+        "id": 2739,
+        "max_price": 12,
+        "min_price": 10,
+        "offer_id": 0,
+        "tenant_id": 0,
+        "value": "3"
+      },
+      {
+        "id": 2740,
+        "max_price": 12,
+        "min_price": 10,
+        "offer_id": 0,
+        "tenant_id": 0,
+        "value": "5"
+      }
+    ],
+    "id": 9334,
+    "image_url": "https://ghc-stage.theflyy.com/assets/flyy_offers/9334/file.png",
+    "is_live": true,
+    "tnc_accepted": false,
+    "max_reward": 0,
+    "min_reward": 0,
+    "invite_offer_details_screen": 0,
+    "offer_terms": "\u003cp\u003eblablabla\u003c/p\u003e",
+    "offer_type_code": "checkin",
+    "offer_type_title": "Daily Check In",
+    "reward_on_every": "Days",
+    "show_banner": false,
+    "show_referral_button": false,
+    "streak": -1,
+    "title": "\u003cp\u003eCheck In daily and win rewards\u003c/p\u003e",
+    "show_tnc": false,
+    "total_streak": 5
+  },
+  "success": true
+}
